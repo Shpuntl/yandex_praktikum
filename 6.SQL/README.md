@@ -18,7 +18,8 @@ WHERE twitter_username LIKE 'Silver%'|
 |5              |||
 |6              |||
 |7              |||
-|8              |||
+|8              |||![image](https://user-images.githubusercontent.com/124867331/223428342-e75fdd03-5ba2-4cbe-ae18-ccbc892fc7f1.png)
+
 |9              |||
 |10             |||
 |11             |||
