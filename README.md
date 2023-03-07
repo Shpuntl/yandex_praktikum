@@ -4,7 +4,7 @@
 Ссылка на курс: https://praktikum.yandex.ru/data-analyst/
 
 ## Как выглядит программа:
-![Аналитик данных — программа](/prog.png)
+![Аналитик данных — программа](/prog.PNG)
 
 ## Как выглядит сертификат ([PDF-версия](certificate/certificate.pdf)):
 ![Аналитик данных — сертификат](/certificate/certificate-1.png)
