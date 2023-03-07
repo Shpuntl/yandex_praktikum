@@ -1,5 +1,5 @@
 # Аналитик данных — Яндекс.Практикум
-[![Аналитик данных — Яндекс.Практикум](/images.png)](https://praktikum.yandex.ru/data-analyst/)
+                          [![Аналитик данных — Яндекс.Практикум](/images.png)](https://praktikum.yandex.ru/data-analyst/)
 
 Ссылка на курс: https://praktikum.yandex.ru/data-analyst/
 
